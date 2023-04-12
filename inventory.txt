@@ -1,0 +1,10 @@
+Title: Ami topu
+AuthorZafor Iqbal
+Isbn123
+price90.00
+
+Title: tratini
+Authormohhammad zafor iqbal
+Isbn456
+price80.00
+
